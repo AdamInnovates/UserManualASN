@@ -37,7 +37,7 @@ Los criterios disponibles incluyen:
 
 Una vez configurados los filtros, los usuarios pueden presionar el botón Actualizar dentro del panel para que el listado de cajas se actualice automáticamente, mostrando solo los resultados que cumplan con los criterios seleccionados.
 
-!(uploads/7c7651ac7f06c002be0c409829248ba1/Captura_de_pantalla_2025-01-14_144650.png)
+![Captura_de_pantalla_2025-01-14_144650](../uploads/7c7651ac7f06c002be0c409829248ba1/Captura_de_pantalla_2025-01-14_144650.png)
 
 3. Listado de Cajas
 
@@ -51,17 +51,17 @@ Una vez configurados los filtros, los usuarios pueden presionar el botón Actual
     - Peso (G/N).
     - Unidades de peso.
 
-![Captura_de_pantalla_2025-01-14_145112](uploads/0e414cc15c4131d9916b5ded181d8bac/Captura_de_pantalla_2025-01-14_145112.png)
+![Captura_de_pantalla_2025-01-14_145112](../uploads/0e414cc15c4131d9916b5ded181d8bac/Captura_de_pantalla_2025-01-14_145112.png)
 
 - Cada caja tiene dos botones de acción asociados:
 
 Editar: Abra un formulario para modificar las características de la caja seleccionada.
 
-![Captura_de_pantalla_2025-01-14_145152](uploads/5291eef98f5a423e51c9ff7890d17127/Captura_de_pantalla_2025-01-14_145152.png)
+![Captura_de_pantalla_2025-01-14_145152](../uploads/5291eef98f5a423e51c9ff7890d17127/Captura_de_pantalla_2025-01-14_145152.png)
 
 Borrar: Permite borrar la caja del sistema tras confirmar la acción.
 
-![Captura_de_pantalla_2025-01-14_145222](uploads/b439b526eb881597f71473ff09a098c2/Captura_de_pantalla_2025-01-14_145222.png)
+![Captura_de_pantalla_2025-01-14_145222](../uploads/b439b526eb881597f71473ff09a098c2/Captura_de_pantalla_2025-01-14_145222.png)
 
 4. Exportar a Excel.
 
