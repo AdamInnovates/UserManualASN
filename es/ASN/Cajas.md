@@ -37,7 +37,7 @@ Los criterios disponibles incluyen:
 
 Una vez configurados los filtros, los usuarios pueden presionar el botón Actualizar dentro del panel para que el listado de cajas se actualice automáticamente, mostrando solo los resultados que cumplan con los criterios seleccionados.
 
-![Captura_de_pantalla_2025-01-14_144650](uploads/7c7651ac7f06c002be0c409829248ba1/Captura_de_pantalla_2025-01-14_144650.png)
+!(uploads/7c7651ac7f06c002be0c409829248ba1/Captura_de_pantalla_2025-01-14_144650.png)
 
 3. Listado de Cajas
 
