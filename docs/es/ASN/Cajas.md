@@ -99,9 +99,6 @@ Borrar: Permite borrar la caja del sistema tras confirmar la acción.
 
 ![Captura_de_pantalla_2025-01-14_145603](images/newBox.png)
 
-
-
-
 #### 2.2.2.2.6 Preguntas frecuentes
 
 <b>¿Qué información se muestra en el listado de cajas?</b>
