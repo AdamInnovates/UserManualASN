@@ -4,10 +4,6 @@
       "text": "ASN",
       "items": [
         {
-          "text": "Overview",
-          "path": "ASN.md"
-        },
-        {
           "text": "Cajas",
           "path": "ASN/Cajas.md"
         },
