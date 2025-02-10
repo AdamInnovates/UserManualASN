@@ -1,11 +1,6 @@
 {
   "Languages":[
     {
-      "DisplayName" : "English",
-      "Code" : "en",
-      "IsDefault": false
-    },
-	    {
       "DisplayName" : "Español",
       "Code" : "es",
       "IsDefault": true
