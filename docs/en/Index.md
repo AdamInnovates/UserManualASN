@@ -3,8 +3,12 @@ title: Home English
 ---
 # ASN
 
-ASN(Advanced Shipping Notice) es una aplicación que proporciona la posibilidad de controlar los envíos de cajas y pallets de pedidos entre proveedores de materiales y TKE, llevar el registro y conseguir que se realicen de manera eficiente.
+ASN (Advanced Shipping Notice) is an application that provides the ability to control the 
+shipment of boxes and pallets of orders between material suppliers and TKE, keep rec
+ords and ensure that they are carried out efficiently. 
 
-Mediante la petición de un envío en la aplicación JAG se realiza el pedido, este llega a la aplicación ASN para llevar su control y en caso de estar todo correcto permite la conexión con la aplicación SAP para terminar el proceso de envío y saber que ha llegado correctamente.
+By requesting a shipment in the JAG application, the order is placed, it then reaches the 
+ASN application for control. If everything is correct, it allows for connection with the SAP 
+application to complete the shipping process and for it to know that it has arrived properly.
 
 ![image](../en/ASN/images/ASN_home.png)

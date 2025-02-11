@@ -1,5 +1,7 @@
 # Login
 
-# 2.1 Descripción general
+# 2.1 Overview
 
-El apartado login permite iniciar sesión a cualquier usuario que tenga creada una cuenta, al igual que permite a usuarios sin cuenta crearse una. También permite un reinicio de contraseña en caso de que esta se haya perdido u olvidado. 
+The login section allows any user who has created an account to log in, and also allows 
+users without an account to create one. It also includes a password reset in case it has 
+been lost or forgotten.

@@ -8,36 +8,36 @@
           "path": "ASN.md"
         },
         {
-          "text": "Cajas",
-          "path": "ASN/Cajas.md"
+          "text": "Boxes",
+          "path": "ASN/Boxes.md"
         },
         {
-          "text": "Empaquetar",
-          "path": "ASN/Empaquetar.md"
+          "text": "Package",
+          "path": "ASN/Package.md"
         },
         {
-          "text": "Envíos",
-          "path": "ASN/Envios.md"
+          "text": "Shipping",
+          "path": "ASN/Shipping.md"
         },
         {
           "text": "Pallets",
-          "path": "ASN/pallets.md"
+          "path": "ASN/Pallets.md"
         },
         {
-          "text": "Pedidos de compra",
-          "path": "ASN/Pedidos-de-compra.md"
+          "text": "Purchase orders",
+          "path": "ASN/Purchase-orders.md"
         },
         {
-          "text": "Pendientes de envío",
-          "path": "ASN/Pendientes-de-envio.md"
+          "text": "Pending shipment",
+          "path": "ASN/Pending-shipment.md"
         },
         {
-          "text": "Envíos parciales",
-          "path": "ASN/Envios-parciales.md"
+          "text": "Partial shipments",
+          "path": "ASN/Partial-shipments.md"
         },
         {
-          "text": "Inquilino",
-          "path": "ASN/Inquilino.md"
+          "text": "Tenant",
+          "path": "ASN/Tenant.md"
         },
         {
           "text": "Items",

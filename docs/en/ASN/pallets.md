@@ -5,157 +5,194 @@ title: Pallets
 
 # 2.2.3 Pallets
 
-**2.2.3.1 Descripción General**
+**2.2.3.1 General Description**
 
-La ventana "Pallets" permite a los usuarios visualizar, gestionar y organizar los pallets registrados en el sistema. Este apartado está diseñado con funcionalidades avanzadas para la búsqueda de pallets concretos, edición, eliminación y creación de nuevos pallets. Adicionalmente, se proporciona la opción de exportar los datos en formato Excel.
+The "Pallets" window allows users to view, manage and organize the pallets registered 
+in the system. This section is designed with advanced features for searching for specific 
+pallets, editing, deleting and creating new pallets. Additionally, the option to export the 
+data in Excel format is provided. 
 
 ![Captura_de_pantalla_2025-01-14_135509](images/listPallets.png)
 
-**2.2.3.2 Funcionalidades principales**
+**2.2.3.2 Main features**
 
-#### 2.2.3.2.1 Listado de pallets
+#### 2.2.3.2.1 List of pallets
 
-- Se muestra un listado con todos los pallets registrados en el sistema.
-- Cada pallet incluye información relevante sobre sus características, tales como:
-   - Nombre del pallet.
-   - Dimensiones (ancho, alto, largo).
-   - Unidades de tamaño.
-   - Peso (G/N).
-   - Unidades de peso.
+- A list is displayed with all the pallets registered in the system. 
 
-   Opciones de gestión
+- Each pallet includes relevant information about its characteristics, such as:
+
+   - Name of the pallet. 
+   - Dimensions (width, height, length). 
+   - Units of size. 
+   - Weight (G/N). 
+   - Units of weight. 
+
+   Management options. 
 
 ![Captura_de_pantalla_2025-01-14_140358](images/optionsPallets.png)
 
-- Editar: Permite modificar las características de una paleta existente. Al seleccionar esta opción, se abre un formulario editable con los datos actuales del pallet.
+- Edit: Allows you to modify the characteristics of an existing pallet. Selecting this option opens 
+an editable form with the current pallet data. 
 
 ![Captura_de_pantalla_2025-01-14_140705](images/editPallets.png)
 
-- Borrar: Proporciona la opción de borrar una paleta del sistema. Esta acción requiere confirmación para evitar eliminaciones accidentales.
+- Delete: Provides the option to delete a palette from the system. This action requires confirma
+tion to prevent accidental deletions.
 
 ![Captura_de_pantalla_2025-01-14_140746](images/alertPallets.png)
 
-#### 2.2.3.2.2 Filtros Avanzados
+#### 2.2.3.2.2 Advanced Filters 
+Users can deploy the Advanced Filters panel to perform specific searches. This function
+ality allows users to perform detailed searches by applying multiple selection criteria. 
+This tool is designed to facilitate the location of specific pallets based on their character
+istics. 
 
-Los usuarios pueden desplegar el panel de Filtros Avanzados para realizar búsquedas específicas. Esta funcionalidad permite a los usuarios realizar búsquedas detalladas aplicando múltiples criterios de selección. Esta herramienta está diseñada para facilitar la localización de pallets específicos en función de sus características.
+Search criteria include: 
 
-Los criterios de búsqueda incluyen:
+   - Pallet code. 
+   - Minimum height. 
+   - Maximum height. 
+   - Minimum width. 
+   - Maximum width. 
+   - Minimum length. 
+   - Maximum length. 
+   - Units of size. 
+   - Minimum weight. 
+   - Maximum weight. 
+   - Units of weight. 
+   - Orders. 
+   - Box. 
 
-   - Código pallet.
-   - Altura mínima.
-   - Altura máxima.
-   - Anchura mínima.
-   - Anchura máxima.
-   - Longitud mínima.
-   - Longitud máxima.
-   - Unidades de tamaño.
-   - Peso mínimo.
-   - Peso máximo.
-   - Unidades de peso.
-   - Órdenes.
-   - Caja.
+#### 2.2.3.2.3 Procedure for use 
 
-#### 2.2.3.2.3 Procedimiento de uso:
+- Expand the Advanced Filters panel. 
 
-- Desplegar el panel de Filtros Avanzados.
+- Set the desired criteria by entering specific values into the fields. 
 
-- Configurar los criterios deseados ingresando valores específicos en los campos.
-
-- Presionar el botón Actualizar. Al hacer clic en Actualizar, el sistema procesa los criterios seleccionados y actualiza dinámicamente el listado de pallets que cumplen con dichas características.
-Solo se muestran los pallets que coinciden con los filtros aplicados, facilitando el análisis y la gestión.
+- Press the Refresh button. When you click Refresh, the system processes the selected criteria 
+and dynamically updates the list of pallets that meet those characteristics. Only pallets that 
+match the applied filters are displayed, making analysis and management easier. 
 
 ![Captura_de_pantalla_2025-01-14_141601](images/filterPallets.png)
 
-#### 2.2.3.2.4 Crear un nuevo pallet
+#### 2.2.3.2.4 Create a new pallet 
 
-- Opción para agregar un nuevo pallet al sistema.
+- Option to add a new pallet to the system. 
 
-- Al hacer clic en esta opción, se abre un formulario en el que el usuario puede ingresar los datos necesarios para registrar un nuevo pallet: 
+- Clicking on this option opens a form in which the user can enter the data necessary to register 
+a new pallet: 
 
-   - Nombre del pallet: Identificación única del pallet que permita reconocerlo fácilmente en el sistema. Por ejemplo: "Pallet 1", "Pallet de alimentos", "Pallet Zona A". Facilita la organización y el seguimiento de los pallets dentro del inventario y logística. 
+   - Pallet name: Unique pallet ID that allows easy recognition in the system. For example: "Pallet 
+   1", "Food Pallet", "Pallet Zone A". Facilitates the organization and tracking of pallets within 
+   inventory and logistics. 
 
-   - Altura: La medida vertical del pallet, desde su base hasta la parte superior. Las unidades: Especificada en el sistema configurado, como centímetros, pulgadas o metros. Ejemplo: 15 cm, 6 pulgadas. Ayuda a calcular el espacio requerido en almacenamiento y transporte, especialmente cuando los pallets se apilan. 
+   - Height: The vertical measurement of the pallet, from its base to the top. Units: Specified in the 
+   configured system, such as centimeters, inches, or meters. Example: 15 cm, 6 inches. Helps 
+   calculate the space required for storage and transportation, especially when pallets are 
+   stacked. 
 
-   - Anchura: La medida horizontal del pallet en su lado más corto. Unidades: Especificada en cm, pulgadas, metros, etc. Ejemplo: 80 cm, 32 pulgadas. Es fundamental para garantizar que el pallet se ajuste correctamente en racks de almacenamiento o espacios de transporte. 
+   - Width: The horizontal measurement of the pallet at its shortest side. Units: Specified in cm, 
+   inches, meters, etc. Example: 80 cm, 32 inches. This is critical to ensure the pallet fits properly 
+   in storage racks or transport spaces. 
 
-   - Longitud: La medida horizontal del pallet desde el frente hasta el fondo. Se mide en las mismas unidades que la anchura y la altura. Ejemplo: 40 cm, 16 pulgadas. Junto con la anchura y la altura, determina el volumen y espacio necesario para almacenamiento. 
+   - Length: The horizontal measurement of the pallet from front to back. It is measured in the 
+   same units as the width and height. Example: 40 cm, 16 inches. Together with the width and 
+   height, it determines the volume and space required for storage. 
 
-   - Unidades de tamaño: Especifica el sistema de medidas usado para las dimensiones del pallet. Ejemplo: Centímetros (cm), pulgadas (in), metros (m). Unifica las mediciones y evita errores al mezclar sistemas de unidades diferentes. 
+   - Size Units: Specifies the measurement system used for pallet dimensions. Example: Centi
+   meters (cm), inches (in), meters (m). Unifies measurements and prevents errors when mixing 
+   different unit systems. 
 
-   - Peso bruto: El peso total del pallet, incluyendo su contenido, embalaje y cualquier otro material adicional. Unidades: Kilogramos (kg), libras (lb), etc. Ejemplo: 12 kg, 26 lb. Es fundamental para calcular costos de transporte y cumplir con las regulaciones de peso máximo. 
+   - Gross Weight: The total weight of the pallet, including its contents, packaging, and any additional materials. Units: Kilograms (kg), pounds (lb), etc. Example: 12 kg, 26 lb. This is critical for calculating transportation costs and complying with maximum weight regulations. 
 
-   - Peso neto: Es el peso del contenido del pallet sin incluir el embalaje. Unidades: Misma unidad que el peso bruto (kg, lb, etc.). Ejemplo: 10 kg, 22 lb. Es útil para determinar el valor del contenido, especialmente en comercio e inventarios. 
+   - Net weight: The weight of the pallet's contents, not including packaging. Units: Same unit as 
+   gross weight (kg, lb, etc.). Example: 10 kg, 22 lb. Useful for determining the value of the con
+   tents, especially in trade and inventories. 
 
-   - Unidades de peso: Sistema de medida para el peso (kilogramos, libras, etc.). Ejemplo: kg, lb. Asegura coherencia en las mediciones y evita errores de interpretación, especialmente en contextos internacionales. 
+   - Weight units: A system of measurement for weight (kilograms, pounds, etc.). Example: kg, lb. Ensures consistency in measurements and prevents errors in interpretation, especially in in
+   ternational contexts. 
 
-El formulario incluye validaciones para garantizar la integridad de los datos antes de guardarlos. Estos campos juntos garantizan que los pallets puedan ser identificados, medidos, pesados y transportados adecuadamente. Facilitan la logística, almacenamiento, inventario y comercio al proporcionar toda la información clave sobre las características físicas de cada pallet. 
+The form includes validations to ensure data integrity before saving. Together, these 
+fields ensure that pallets can be properly identified, measured, weighed and trans
+ported. They facilitate logistics, warehousing, inventory and trade by providing all 
+the key information about the physical characteristics of each pallet. 
 
-<b>Es necesario crear aquí el pallet para que este quede registrado en el sistema y pueda estar disponible posteriormente en la sección de empaquetado, asegurando que se utilicen las especificaciones correctas en los procesos posteriores.</b>
+<b>The pallet needs to be created here so that it is recorded in the system and 
+can be made available later in the packaging section, ensuring that the correct 
+specifications are used in subsequent processes.</b>
 
 ![Captura_de_pantalla_2025-01-14_142537](images/newPallets.png)
 
-#### 2.2.3.2.5 Exportar a Excel.
+#### 2.2.3.2.5 Export to Excel. 
 
-- La opción de Exportar a Excel permite descargar un archivo en formato Excel con la información del listado de pallets actualmente visibles en la tabla. Esta funcionalidad es ideal para generar informes o realizar análisis externos de los datos. 
+- The Export to Excel option allows you to download an Excel file with the information on the 
+list of pallets currently visible in the table. This feature is ideal for generating reports or per
+forming external data analysis. 
 
-- Al hacer clic en el botón Exportar a Excel, el sistema genera un archivo Excel que contiene las filas y columnas actualmente visibles en el listado de paletas.
+- When you click the Export to Excel button, the system generates an Excel file containing the 
+rows and columns currently visible in the palette listing. 
 
 
-#### 2.2.3.2.6 Preguntas frecuentes
+#### 2.2.3.2.6 Frequently Asked Questions
 
-<b>¿Qué información se muestra en el listado de paletas?</b>
+<b>What information is displayed in the pallet listing?</b>
 
-El listado de paletas incluye las siguientes características:
+The palette listing includes the following features: 
 
-Nombre del pallet.
-Dimensiones: Ancho, largo y alto del pallet.
-Unidades de tamaño.
-Peso.
-Unidades de peso.
+Pallet name. 
+Dimensions: Width, length and height of the pallet. 
+Size units. 
+Weight. 
+Weight units.
 
-<b>¿Cómo puedo buscar un pallet específico?</b>
+<b>How can I search for a specific pallet?</b>
 
-Utiliza el buscador o el panel de Filtros Avanzados:
+Use the search engine or the Advanced Filters panel: 
 
-Buscador: Ingresa palabras clave relacionadas con las características del pallet, como su código o nombre de pallet.
+Search: Enter keywords related to the pallet's characteristics, such as its code or pallet name. 
 
-Filtros Avanzados: Permite realizar búsquedas detalladas por criterios como dimensiones, número de orden, código, número de cajas.
+Advanced Filters: Allows you to perform detailed searches using criteria such as dimensions, order 
+number, code, number of boxes. 
 
-<b>¿Cómo funcionan los filtros avanzados?</b>
+<b>How do advanced filters work?</b>
 
-Los Filtros Avanzados permiten ajustar el listado de paletas según criterios específicos. Para utilizarlos:
+Advanced Filters allow you to fine-tune the palette listing based on specific criteria. To use them: 
 
-Despliega el panel de filtros avanzados.
-Selecciona los criterios deseados (por ejemplo, dimensiones o número de orden).
-Haga clic en el botón Actualizar para aplicar los filtros y ver los resultados correspondientes.
+Displays the advanced filters panel. Select the desired criteria (for example, dimensions or order 
+number). Click the Update button to apply the filters and view the corresponding results. 
 
-<b>¿Es posible exportar el listado de pallets?</b>
+<b>Is it possible to export the list of palettes?</b>
 
-Sí, puedes exportar el listado actual a un archivo Excel:
+Yes, you can export the current list to an Excel file: 
 
-Ajusta el listado utilizando el buscador o los filtros avanzados.
-Haga clic en el botón Exportar a Excel.
-El archivo se descargará automáticamente en la carpeta predeterminada de su navegador, incluyendo solo los registros visibles en la pantalla.
+Refine the listing using the search box or advanced filters. Click the Export to Excel button. The 
+file will automatically download to your browser's default folder, including only the records visible 
+on the screen. 
 
-<b>¿Cómo puedo registrar un nuevo pallet?</b>
+<b>How can I register a new pallet?</b>
 
-Para agregar una nueva paleta al sistema:
+To add a new palette to the system: 
 
-Haz clic en el botón Nuevo Pallet .
-Complete el formulario con los datos necesarios, como nombre del pallet y dimensiones.
-Guarde los datos para registrar el pallet.
+Click the New Pallet button. Fill in the form with the necessary data, such as pallet name and 
+dimensions. Save the data to register the pallet. 
 
-<b>¿Qué sucede si intento registrar un pallet con datos incorrectos?</b>
+<b>What happens if I try to register a pallet with incorrect data?</b>
 
-El formulario incluye validaciones que impiden guardar datos incorrectos o incompletos. Si hay errores, el sistema mostrará mensajes indicando qué campos deben ser corregidos antes de guardar.
+The form includes validations that prevent incorrect or incomplete data from being saved. If there 
+are errors, the system will display messages indicating which fields need to be corrected before 
+saving. 
 
-<b>¿Cómo puedo corregir un error en los datos de una paleta ya registrada?</b>
+<b>How can I correct an error in the data of an already registered palette?</b>
 
-Para corregir los datos de un pallet:
+To correct a pallet's data: 
 
-Localice el pallet en el listado.
+Locate the pallet in the list. 
 
-Haga clic en el botón Opciones asociado a ese pallet. Se desplegarán dos opciones: Editar y Borrar. Presione la opción Editar en el caso de querer modificar cambios del pallet seleccionado, realice los cambios necesarios en el formulario y guarde los datos actualizados. O bien, presione Borrar si quiere eliminar el pallet seleccionado completo.
+Click the Options button associated with that pallet. Two options will be displayed: Edit and 
+Delete. Press the Edit option if you want to modify changes to the selected pallet, make the 
+necessary changes in the form and save the updated data. Or, press Delete if you want to 
+delete the entire selected pallet.
 
 
 

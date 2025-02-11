@@ -1,28 +1,32 @@
-# 2.2.9 Ítems
+# 2.2.9 Items
 
-**2.2.9.1 Descripción general**
+**2.2.9.1 Overview**
 
-En el apartado ítems de inventario podremos modificar los ítems registrados en el sistema. 
+In the inventory items section we can modify the items registered in the system. 
 
-Cuando un ítem es importado por primera vez, se registrará con el código y nombre que utiliza TKE. En este apartado podremos modificar esas características. 
+When an item is imported for the first time, it will be registered with the code and name 
+used by TKE. In this section we can modify these characteristics. 
 
-Así, el proveedor podrá utilizar su propia nomenclatura para los elementos de los pedidos de compra, mientras que el sistema mantendrá la referencia a la nomenclatura usada por TKE para utilizarla a la hora de notificar o generar etiquetas. 
+In this way, the supplier will be able to use its own nomenclature for the elements of the 
+purchase orders, while the system will maintain the reference to the nomenclature used 
+by TKE to use it when notifying or generating labels. 
 
 ![Captura_de_pantalla_2025-01-14_152158](images/itemsTKE.png)
 
-En esta pantalla, podremos ver un listado de todos los ítems existentes en el sistema. 
+On this screen, we can see a list of all the items existing in the system. 
 
 ![Captura_de_pantalla_2025-01-14_152158](images/itemsTKEList.png)
  
-Se dispone de opciones de filtrado por distintos campos 
+Filtering options are available for different fields.
 
 ![Captura_de_pantalla_2025-01-14_152158](images/itemsTKEFilter.png)
 
-Para modificar, debemos clicar en Opciones y después en Editar. 
+To modify, we must click on Options and then on Edit. 
 
 ![Captura_de_pantalla_2025-01-14_152158](images/itemsTKEOptions.png)
 
-Esto nos permitirá abrir un modal, donde podremos hacer modificaciones a distintas características del artículo. Después, al clicar en Guardar, se registrarán dichos cambios en el sistema. 
+This will open a model where we can make changes to various characteristics of the 
+article. Afterwards, when we click on Save, these changes will be saved in the system.
 
 ![Captura_de_pantalla_2025-01-14_152158](images/itemsEdit.png)
 

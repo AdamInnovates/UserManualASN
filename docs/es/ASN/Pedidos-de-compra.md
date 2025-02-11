@@ -52,8 +52,6 @@ En la parte superior de la página existe un botón de llamado "ExportToExcel" p
 <b>¿Se puede crear una nueva orden?</b>
 Existe un botón en l aparte superior de la página que se llama "NewOrder" que permite mediante un menú crear un a nueva orden y proporcionarle los atributos necesarios.
 
-![image](uploads/da09d41feaa4d07a8fdaf334df493575/image.png){width=679 height=492}
-
 ![image](images/newPurchaseOrderModel.png)
 
 <b>¿Cómo editar o borrar una orden?</b>
