@@ -8,7 +8,7 @@ En este apartado, sólo se pueden elegir órdenes individualmente. Si queremos j
 
 En el apartado de Empaquetar se visualiza un listado los paquetes realizados proporcionando el número de pedido, la dirección a la que se envía, el número de cajas a enviar y un botón de opciones "Delivery Notes".
 
-![image](images/listPacket.png)
+![image](https://github.com/user-attachments/assets/2f3ff137-a040-4275-a0cd-7fc60e24c4d9)
 
 **2.2.5.2 Funcionalidades principales**
 
